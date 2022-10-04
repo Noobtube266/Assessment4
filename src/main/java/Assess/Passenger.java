@@ -40,6 +40,7 @@ public class Passenger extends Person{
         this.luggage = luggage;
     }
     public int getAmtOfLuggage(){
+        //Create method that loops through and counts each individual object
         return 0;
     }
     public void printTicket(){
